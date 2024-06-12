@@ -62,7 +62,7 @@
 </p>
 <img src="./images/distribution.png" width = "500" alt="distribution">
 
-# Evaluation Frameworkc
+# Evaluation Framework
 
 ## Evaluation Metric for HTML Code Generation
 <p>
