@@ -18,6 +18,7 @@
     Comparison of dataset statistics among webpage code generation datasets; WebSight, Design2Code, Pix2Code, our DWCG, and our DWCGR.
 </p>
 <table>
+    <div align="center">
     <tr>
         <th>Dataset</th> <th>WebSight</th> <th>Design2Code</th> <th>Pix2Code</th> <th>DWCG</th> <th>DWCG<sub>R</sub></th>
     </tr>
@@ -42,6 +43,7 @@
     <tr>
         <th>Avg Unique Tags</th> <th>10±3</th> <th>22±6</th> <th>17.0±0.0</th> <th>13.6±2.7</th> <th>13.5±2.5</th>
     </tr>
+    </div>>
 </table>
 <p>
     Distribution of DWU and DWUR datasets. Both datasets include high-quality question-answer pairs for webpage understanding.
