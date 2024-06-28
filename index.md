@@ -109,7 +109,7 @@
     </tr>
 </table> -->
 <div style="text-align: center;">
-    <img src="./images/tb3.png" width = "800" alt="tb3" style="margin: 0 auto;">
+    <img src="./images/tb3.png" width = "600" alt="tb3" style="margin: 0 auto;">
 </div>
 <p>
     The performance of different LLM backbones under various data configurations on our Webpage Code Generation Benchmark (WCGB). "VSA" denotes Visual Structure and Alignment, "CAD" represents Color and Aesthetic Design, "TCC" represents Textual and Content Consistency, and "UII" denotes User Interface and Interactivity
