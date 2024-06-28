@@ -19,7 +19,7 @@
     Comparison of dataset statistics among webpage code generation datasets; WebSight, Design2Code, Pix2Code, our DWCG, and our DWCGR.
 </p>
 <div style="text-align: center;">
-<table>
+<table style="margin: auto;">
     <tr>
         <th>Dataset</th> <th>WebSight</th> <th>Design2Code</th> <th>Pix2Code</th> <th>DWCG</th> <th>DWCG<sub>R</sub></th>
     </tr>
