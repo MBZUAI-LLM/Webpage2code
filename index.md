@@ -45,7 +45,7 @@
     </tr>
 </table> -->
 <div style="text-align: center;">
-    <img src="./images/tb1.png" width = "800" alt="tb1" style="margin: 0 auto;">
+    <img src="./images/tb1.png" width = "750" alt="tb1" style="margin: 0 auto;">
 </div>
 
 <p>
@@ -63,7 +63,7 @@
     </tr>
 </table> -->
 <div style="text-align: center;">
-    <img src="./images/tb2.png" width = "300" alt="tb2" style="margin: 0 auto;">
+    <img src="./images/tb2.png" width = "250" alt="tb2" style="margin: 0 auto;">
 </div>
 <p>
     The distribution the most common HTML tags in our GPT-3.5 generated HTML data.
@@ -109,7 +109,7 @@
     </tr>
 </table> -->
 <div style="text-align: center;">
-    <img src="./images/tb3.png" width = "600" alt="tb3" style="margin: 0 auto;">
+    <img src="./images/tb3.png" width = "550" alt="tb3" style="margin: 0 auto;">
 </div>
 <p>
     The performance of different LLM backbones under various data configurations on our Webpage Code Generation Benchmark (WCGB). "VSA" denotes Visual Structure and Alignment, "CAD" represents Color and Aesthetic Design, "TCC" represents Textual and Content Consistency, and "UII" denotes User Interface and Interactivity
@@ -139,7 +139,7 @@
 </table>
  -->
  <div style="text-align: center;">
-    <img src="./images/tb4.png" width = "800" alt="tb4" style="margin: 0 auto;">
+    <img src="./images/tb4.png" width = "750" alt="tb4" style="margin: 0 auto;">
 </div>
 # Examples
 <p>
