@@ -51,7 +51,7 @@
 <p>
     Distribution of DWU and DWUR datasets. Both datasets include high-quality question-answer pairs for webpage understanding.
 </p>
-<table>
+<!-- <table>
     <tr>
         <th>Dataset</th> <th>DWU</th> <th>DWU<sub>R</sub></th>
     </tr>
@@ -61,7 +61,10 @@
     <tr>
         <th>Size</th> <th>243.5K</th> <th>51.5K</th>
     </tr>
-</table>
+</table> -->
+<div style="text-align: center;">
+    <img src="./images/tb2.png" width = "300" alt="tb2" style="margin: 0 auto;">
+</div>
 <p>
     The distribution the most common HTML tags in our GPT-3.5 generated HTML data.
 </p>
@@ -82,7 +85,7 @@
 <p>
     The accuracy of webpage understanding under various data configurations and LLM backbones. All models are instruction-tuned and evaluated on our WUB benchmark. We note that the general domain data (i.e., LLaVA) is included in all data configuration as default.
 </p>
-<table>
+<!-- <table>
     <tr>
         <th>LLM Backbone</th> <th>DWCG</th> <th>DWU</th> <th>DWCGR</th> <th>DWUR</th> <th>Accuracy (%)</th>
     </tr>
@@ -104,11 +107,14 @@
     <tr>
         <th>LLaMA3-8B</th> <th>✓</th> <th>✓</th> <th>✓</th> <th>✓</th> <th>74.84</th>
     </tr>
-</table>
+</table> -->
+<div style="text-align: center;">
+    <img src="./images/tb3.png" width = "800" alt="tb3" style="margin: 0 auto;">
+</div>
 <p>
     The performance of different LLM backbones under various data configurations on our Webpage Code Generation Benchmark (WCGB). "VSA" denotes Visual Structure and Alignment, "CAD" represents Color and Aesthetic Design, "TCC" represents Textual and Content Consistency, and "UII" denotes User Interface and Interactivity
 </p>
-<table>
+<!-- <table>
     <tr>
         <th>LLM Backbone</th> <th>DWCG</th> <th>DWU</th> <th>DWCGR</th> <th>DWUR</th> <th>VSA ↑</th> <th>CAD ↑</th> <th>TCC ↑</th> <th>UII ↑</th> <th>Overall ↑</th>
     </tr>
@@ -131,7 +137,10 @@
         <th>LLaMA3-8B</th> <th>✓</th> <th>✓</th> <th>✓</th> <th>✓</th> <th>8.522</th> <th>8.564</th> <th>8.421</th> <th>8.611</th> <th>8.530</th>
     </tr>
 </table>
-
+ -->
+ <div style="text-align: center;">
+    <img src="./images/tb4.png" width = "800" alt="tb4" style="margin: 0 auto;">
+</div>
 # Examples
 <p>
     Some examples of our dataset.
