@@ -11,6 +11,7 @@
     table {
         font-family:Arial, sans-serif;
         font-size:14px;
+        margin:auto;
     }
 </style>
 
