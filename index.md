@@ -13,17 +13,12 @@
         font-size:14px;
         margin:auto;
     }
-    .center-table {
-      display: grid;
-      place-items: center;
-    }
 </style>
 
 <p>
     Comparison of dataset statistics among webpage code generation datasets; WebSight, Design2Code, Pix2Code, our DWCG, and our DWCG<sub>R</sub>.
 </p>
-<div class='center-table'>
-<table>
+<!-- <table>
     <tr>
         <th>Dataset</th> <th>WebSight</th> <th>Design2Code</th> <th>Pix2Code</th> <th>DWCG</th> <th>DWCG<sub>R</sub></th>
     </tr>
@@ -48,8 +43,11 @@
     <tr>
         <th>Avg Unique Tags</th> <th>10±3</th> <th>22±6</th> <th>17.0±0.0</th> <th>13.6±2.7</th> <th>13.5±2.5</th>
     </tr>
-</table>
+</table> -->
+<div style="text-align: center;">
+    <img src="./images/tb1.png" width = "500" alt="distribution" style="margin: 0 auto;">
 </div>
+
 <p>
     Distribution of DWU and DWUR datasets. Both datasets include high-quality question-answer pairs for webpage understanding.
 </p>
@@ -68,7 +66,7 @@
     The distribution the most common HTML tags in our GPT-3.5 generated HTML data.
 </p>
 <div style="text-align: center;">
-    <img src="./images/distribution.png" width = "500" alt="distribution" style="margin: 0 auto;">
+    <img src="./images/tb1.png" width = "800" alt="tb1" style="margin: 0 auto;">
 </div>
 
 # Evaluation Framework
