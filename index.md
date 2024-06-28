@@ -62,7 +62,9 @@
 <p>
     The distribution the most common HTML tags in our GPT-3.5 generated HTML data.
 </p>
+<div style="text-align: center;">
 <img src="./images/distribution.png" width = "500" alt="distribution" style="margin: 0 auto;">
+</div>
 
 # Evaluation Framework
 
