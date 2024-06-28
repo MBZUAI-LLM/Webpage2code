@@ -13,6 +13,9 @@
         font-size:14px;
         margin:auto;
     }
+    .center-table {
+        text-align:center;
+    }
 </style>
 
 <p>
