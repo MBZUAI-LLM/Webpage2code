@@ -45,7 +45,7 @@
     </tr>
 </table> -->
 <div style="text-align: center;">
-    <img src="./images/tb1.png" width = "500" alt="tb1" style="margin: 0 auto;">
+    <img src="./images/tb1.png" width = "800" alt="tb1" style="margin: 0 auto;">
 </div>
 
 <p>
