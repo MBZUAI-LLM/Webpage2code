@@ -14,7 +14,8 @@
         margin:auto;
     }
     .center-table {
-        text-align:center;
+      display: grid;
+      place-items: center;
     }
 </style>
 
