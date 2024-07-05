@@ -31,6 +31,12 @@
 <div style="text-align: center;">
     <img src="./images/tb1.png" width = "750" alt="tb1" style="margin: 0 auto;">
 </div>
+<p>
+    The distribution the most common HTML tags in our GPT-3.5 generated HTML data.
+</p>
+<div style="text-align: center;">
+    <img src="./images/distribution.png" width = "500" alt="distribution" style="margin: 0 auto;">
+</div>
 
 <div align='center'>Webpage Understanding Data</font></div>
 <p>
@@ -54,6 +60,12 @@
         <td><img src="./images/QA.png" width = "1000" alt="sample3"></td>
     </tr>
 </table>
+<p>
+    Distribution of DWU and DWUR datasets. Both datasets include high-quality question-answer pairs for webpage understanding.
+</p>
+<div style="text-align: center;">
+    <img src="./images/tb2.png" width = "250" alt="tb2" style="margin: 0 auto;">
+</div>
 
 # Statistics and Distribution
 
@@ -95,9 +107,7 @@
 </table> -->
 
 
-<p>
-    Distribution of DWU and DWUR datasets. Both datasets include high-quality question-answer pairs for webpage understanding.
-</p>
+
 <!-- <table>
     <tr>
         <th>Dataset</th> <th>DWU</th> <th>DWU<sub>R</sub></th>
@@ -109,15 +119,6 @@
         <th>Size</th> <th>243.5K</th> <th>51.5K</th>
     </tr>
 </table> -->
-<div style="text-align: center;">
-    <img src="./images/tb2.png" width = "250" alt="tb2" style="margin: 0 auto;">
-</div>
-<p>
-    The distribution the most common HTML tags in our GPT-3.5 generated HTML data.
-</p>
-<div style="text-align: center;">
-    <img src="./images/distribution.png" width = "500" alt="distribution" style="margin: 0 auto;">
-</div>
 
 # Evaluation Framework
 
