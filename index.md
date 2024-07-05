@@ -26,7 +26,7 @@
     </tr>
 </table>
 <p>
-    Comparison of dataset statistics among webpage code generation datasets; WebSight, Design2Code, Pix2Code, our DWCG, and our DWCG<sub>R</sub>.
+    Comparison of dataset statistics among webpage code generation datasets: WebSight, Design2Code, Pix2Code, our DWCG, and our DWCG<sub>R</sub>.
 </p>
 <div style="text-align: center;">
     <img src="./images/tb1.png" width = "750" alt="tb1" style="margin: 0 auto;">
