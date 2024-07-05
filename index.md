@@ -9,13 +9,17 @@
 </p>
 <table>
     <tr>
-        <td>(1) Creation of new webpage image-code pair data: We generated high-quality HTML webpage-code pairs following the CodeAlpaca prompt using GPT-3.5 and convert them into instruction-following data.</td>
+        <td>
+            (1) Creation of new webpage image-code pair data: We generated high-quality HTML webpage-code pairs following the CodeAlpaca prompt using GPT-3.5 and convert them into instruction-following data.
+        </td>
     </tr>
     <tr>
         <td><img src="./images/pix2code.png" width = "1000" alt="sample1"></td>
     </tr>
     <tr>
-        (2) Refinement of existing webpage code generation data: We transform existing datasets including WebSight and Pix2Code into an instruction-following data format similar to LLaVA data.
+        <td>
+            (2) Refinement of existing webpage code generation data: We transform existing datasets including WebSight and Pix2Code into an instruction-following data format similar to LLaVA data.
+        </td>
     </tr>
     <tr>
         <td><img src="./images/WebSight.png" width = "1000" alt="sample2"></td>
