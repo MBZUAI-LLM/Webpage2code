@@ -5,12 +5,12 @@
 
 <div align='center'><font size='50'>Webpage Code Generation Data</font></div>
 <p>
-    Webpage code generation data contains two parts:  
+    Webpage code generation data contains two parts DWCG and DWCG<sub>R</sub>:  
 </p>
 <table>
     <tr>
         <td>
-            (1) Creation of new webpage image-code pair data: We generated high-quality HTML webpage-code pairs following the CodeAlpaca prompt using GPT-3.5 and convert them into instruction-following data.
+            DWCG Creation of new webpage image-code pair data: We generated high-quality HTML webpage-code pairs following the CodeAlpaca prompt using GPT-3.5 and convert them into instruction-following data.
         </td>
     </tr>
     <tr>
@@ -18,23 +18,28 @@
     </tr>
     <tr>
         <td>
-            (2) Refinement of existing webpage code generation data: We transform existing datasets including WebSight and Pix2Code into an instruction-following data format similar to LLaVA data.
+            DWCG<sub>R</sub> Refinement of existing webpage code generation data: We transform existing datasets including WebSight and Pix2Code into an instruction-following data format similar to LLaVA data.
         </td>
     </tr>
     <tr>
         <td><img src="./images/WebSight.png" width = "1000" alt="sample2"></td>
     </tr>
 </table>
-
+<p>
+    Comparison of dataset statistics among webpage code generation datasets; WebSight, Design2Code, Pix2Code, our DWCG, and our DWCG<sub>R</sub>.
+</p>
+<div style="text-align: center;">
+    <img src="./images/tb1.png" width = "750" alt="tb1" style="margin: 0 auto;">
+</div>
 
 <div align='center'><font size='50'>Webpage Understanding Data</font></div>
 <p>
-    Webpage understanding data contains two parts:  
+    Webpage understanding data contains two parts DWU and DWU<sub>R</sub>:  
 </p>
 <table>
     <tr>
         <td>
-            (1) Creation of a new text question-answer pair data: We generated a new question-answer pair dataset utilizing our new GPT-3.5 generated data from (1) in Webpage Code Generation Data for webpage understanding.
+            DWU Creation of a new text question-answer pair data: We generated a new question-answer pair dataset utilizing our new GPT-3.5 generated data from (1) in Webpage Code Generation Data for webpage understanding.
         </td>
     </tr>
     <tr>
@@ -42,7 +47,7 @@
     </tr>
     <tr>
         <td>
-            (2) Refinement of existing webpage understanding data: We refine the WebSRC question-answer data to improve its quality using the GPT-4.
+            DWU<sub>R</sub> Refinement of existing webpage understanding data: We refine the WebSRC question-answer data to improve its quality using the GPT-4.
         </td>
     </tr>
     <tr>
@@ -60,10 +65,9 @@
     }
 </style>
 
-<p>
-    Comparison of dataset statistics among webpage code generation datasets; WebSight, Design2Code, Pix2Code, our DWCG, and our DWCG<sub>R</sub>.
-</p>
-<!-- <table>
+
+<!-- comparison
+<table>
     <tr>
         <th>Dataset</th> <th>WebSight</th> <th>Design2Code</th> <th>Pix2Code</th> <th>DWCG</th> <th>DWCG<sub>R</sub></th>
     </tr>
@@ -89,9 +93,7 @@
         <th>Avg Unique Tags</th> <th>10±3</th> <th>22±6</th> <th>17.0±0.0</th> <th>13.6±2.7</th> <th>13.5±2.5</th>
     </tr>
 </table> -->
-<div style="text-align: center;">
-    <img src="./images/tb1.png" width = "750" alt="tb1" style="margin: 0 auto;">
-</div>
+
 
 <p>
     Distribution of DWU and DWUR datasets. Both datasets include high-quality question-answer pairs for webpage understanding.
