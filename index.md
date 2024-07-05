@@ -29,11 +29,21 @@
 
 <div align='center'><font size='50'>Webpage Understanding Data</font></div>
 <p>
-    Webpage understanding data contains two parts: (1) Creation of a new text question-answer pair data: We generated a new question-answer pair dataset utilizing our new GPT-3.5 generated data from (1) in Webpage Code Generation Data for webpage understanding. (2) Refinement of existing webpage understanding data: We refine the WebSRC question-answer data to improve its quality using the GPT-4
+    Webpage understanding data contains two parts:  
 </p>
 <table>
     <tr>
+        <td>
+            (1) Creation of a new text question-answer pair data: We generated a new question-answer pair dataset utilizing our new GPT-3.5 generated data from (1) in Webpage Code Generation Data for webpage understanding.
+        </td>
+    </tr>
+    <tr>
         <td><img src="./images/WebSRC.png" width = "1000" alt="sample2"></td>
+    </tr>
+    <tr>
+        <td>
+            (2) Refinement of existing webpage understanding data: We refine the WebSRC question-answer data to improve its quality using the GPT-4.
+        </td>
     </tr>
     <tr>
         <td><img src="./images/QA.png" width = "1000" alt="sample3"></td>
