@@ -3,4 +3,3 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
 title: Web2Code
-description: Sukmin Yun∗,1,4, Haokun Lin∗,1, Rusiru Thushara∗,1, Mohammad Qazim Bhat∗,1, Yongxin Wang∗ ,1, Zutao Jiang1, Mingkai Deng2, Jinhong Wang1, Tianhua Tao1,3, Junbo Li1, Haonan Li1, Preslav Nakov1, Timothy Baldwin1, Zhengzhong Liu1,5, Eric P. Xing1,2,5, Xiaodan Liang1, Zhiqiang Shen1 1MBZUAI, 2CMU, 3UIUC, 4HYU ERICA, 5Petuum
