@@ -137,7 +137,10 @@
     </tr>
 </table> -->
 
-# Evaluation Framework
+
+
+
+<div class='body-title' align='center'>Evaluation Framework</div>
 
 ## Evaluation Metric for HTML Code Generation
 <p>
