@@ -4,7 +4,8 @@
 </p>
 
 
-
+<br />
+<br />
 <div class='body-title' align='center'>Webpage Code Generation Data</div>
 <p>
     Webpage code generation data contains two parts DWCG and DWCG<sub>R</sub>:  
@@ -42,7 +43,8 @@
 
 
 
-
+<br />
+<br />
 <div class='body-title' align='center'>Webpage Understanding Data</div>
 <p>
     Webpage understanding data contains two parts DWU and DWU<sub>R</sub>:  
@@ -140,7 +142,8 @@ comparison
 
 
 
-
+<br />
+<br />
 <div class='body-title' align='center'>Visualizations for Qualitative Evaluation</div>
 <p>
     Visualization comparison using different backbones. Using the code-enhanced LLM backbone CrystalChat-7B achieves better quality of generation than Vicuna1.5-7B
@@ -156,7 +159,8 @@ comparison
 <img src="./images/assert3.png" width = "1000" alt="assert3">
 
 
-
+<br />
+<br />
 <div class='body-title' align='center'>Evaluation Framework</div>
 
 <div class='body-title2'>Evaluation Metric for HTML Code Generation</div>
