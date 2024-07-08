@@ -140,6 +140,23 @@
 
 
 
+
+<div class='body-title' align='center'>Visualizations for Qualitative Evaluation</div>
+<p>
+    Visualization comparison using different backbones. Using the code-enhanced LLM backbone CrystalChat-7B achieves better quality of generation than Vicuna1.5-7B
+</p>
+<img src="./images/assert1.png" width = "1000" alt="assert1">
+<p>
+    Visualization comparison between ground-truth code generated image and our result. The style and layout of the generated webpage image are similar to the ground-truth image.
+</p>
+<img src="./images/assert2.png" width = "1000" alt="assert2">
+<p>
+    Visualization of our CrystalChat-7B generation when the input is hand-drawn webpage.
+</p>
+<img src="./images/assert3.png" width = "1000" alt="assert3">
+
+
+
 <div class='body-title' align='center'>Evaluation Framework</div>
 
 <div class='body-title2'>Evaluation Metric for HTML Code Generation</div>
