@@ -142,13 +142,13 @@
 
 <div class='body-title' align='center'>Evaluation Framework</div>
 
-## Evaluation Metric for HTML Code Generation
+<div class='body-title2'>Evaluation Metric for HTML Code Generation</div>
 <p>
     Our proposed evaluation framework includes two schemes: (1) Webpage Understanding Benchmark (WUB): An offline evaluation using ‘yes’/‘no’ questions. (2) Webpage Code Generation Benchmark (WCGB): An online evaluation (using GPT-4 Vision) based on image similarity.
 </p>
 <img src="./images/evaluation.png" width = "1000" alt="distribution">
 
-## Quantitative Evaluation for HTML Code Generation of MLLMs
+<div class='body-title2'>Quantitative Evaluation for HTML Code Generation of MLLMs</div>
 
 <p>
     The accuracy of webpage understanding under various data configurations and LLM backbones. All models are instruction-tuned and evaluated on our WUB benchmark. We note that the general domain data (i.e., LLaVA) is included in all data configuration as default.
