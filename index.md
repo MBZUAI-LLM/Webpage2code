@@ -88,14 +88,14 @@
 
 
 
-<style>
+<!-- <style>
     table {
         font-family:Arial, sans-serif;
         font-size:14px;
         margin:auto;
     }
 </style>
-<!-- comparison
+comparison
 <table>
     <tr>
         <th>Dataset</th> <th>WebSight</th> <th>Design2Code</th> <th>Pix2Code</th> <th>DWCG</th> <th>DWCG<sub>R</sub></th>
