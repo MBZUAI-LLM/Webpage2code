@@ -65,7 +65,10 @@
         <td><img src="./images/QA.png" width = "1000" alt="sample3"></td>
     </tr>
 </table>
-<p>
+
+
+
+<!-- <p>
     Distribution of DWU and DWUR datasets. Both datasets include high-quality question-answer pairs for webpage understanding.
 </p>
 <div style="text-align: center;">
@@ -76,7 +79,12 @@
 </p>
 <div style="text-align: center;">
     <img src="./images/cloud.png" width = "250" alt="tb2" style="margin: 0 auto;">
+</div> -->
+
+<div style="text-align: center;">
+    <img src="./images/combine_tb_cloud.png" width = "1000" alt="combine" style="margin: 0 auto;">
 </div>
+
 
 
 
