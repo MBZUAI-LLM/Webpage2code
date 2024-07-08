@@ -3,6 +3,8 @@
     Multimodal large language models (MLLMs) have shown impressive success across modalities such as image, video, and audio in a variety of understanding and generation tasks.we propose Web2Code, a benchmark consisting of a new large-scale webpage-to-code dataset for instruction tuning and an evaluation framework for the webpage understanding and HTML code translation abilities of MLLMs. For dataset construction, we leveraging pretrained LLMs to enhance existing webpage-to-code datasets as well as generate a diverse pool of new webpages rendered into images.To evaluate model performance in these tasks, we develop an evaluation framework for testing MLLMs' abilities in webpage understanding and web-to-code generation.Extensive experiments show that our proposed dataset is beneficial not only to our proposed tasks but also in the general visual domain, while previous datasets result in worse performance. We hope our work will contribute to the development of general MLLMs suitable for web-based content generation and task automation.
 </p>
 
+
+
 <div class='body-title' align='center'>Webpage Code Generation Data</div>
 <p>
     Webpage code generation data contains two parts DWCG and DWCG<sub>R</sub>:  
@@ -38,6 +40,9 @@
     <img src="./images/distribution.png" width = "500" alt="distribution" style="margin: 0 auto;">
 </div>
 
+
+
+
 <div class='body-title' align='center'>Webpage Understanding Data</div>
 <p>
     Webpage understanding data contains two parts DWU and DWU<sub>R</sub>:  
@@ -66,8 +71,14 @@
 <div style="text-align: center;">
     <img src="./images/tb2.png" width = "250" alt="tb2" style="margin: 0 auto;">
 </div>
+<p>
+    Word Cloud for the answer set of the GPT4 based DWU dataset.
+</p>
+<div style="text-align: center;">
+    <img src="./images/cloud.png" width = "250" alt="tb2" style="margin: 0 auto;">
+</div>
 
-# Statistics and Distribution
+
 
 <style>
     table {
@@ -76,8 +87,6 @@
         margin:auto;
     }
 </style>
-
-
 <!-- comparison
 <table>
     <tr>
@@ -189,21 +198,6 @@
  <div style="text-align: center;">
     <img src="./images/tb4.png" width = "750" alt="tb4" style="margin: 0 auto;">
 </div>
-# Examples
-<p>
-    Some examples of our dataset.
-</p>
-<table>
-    <tr>
-        <td><img src="./images/pix2code.png" width = "1000" alt="sample1"></td>
-    </tr>
-    <tr>
-        <td><img src="./images/WebSRC.png" width = "1000" alt="sample2"></td>
-    </tr>
-    <tr>
-        <td><img src="./images/QA.png" width = "1000" alt="sample3"></td>
-    </tr>
-</table>
 
 # Bibtext
 
