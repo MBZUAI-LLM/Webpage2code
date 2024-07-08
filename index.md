@@ -82,7 +82,7 @@
 </div> -->
 
 <div style="text-align: center;">
-    <img src="./images/combine_tb_cloud.png" width = "1000" alt="combine" style="margin: 0 auto;">
+    <img src="./images/combine.png" width = "1000" alt="combine" style="margin: 0 auto;">
 </div>
 
 
