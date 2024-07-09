@@ -234,7 +234,12 @@ comparison
 # Bibtext
 
 ```bib
-Update Soon
+@article{yun2024web2code,
+  title={Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs},
+  author={Yun, Sukmin and Lin, Haokun and Thushara, Rusiru and Bhat, Mohammad Qazim and Wang, Yongxin and Jiang, Zutao and Deng, Mingkai and Wang, Jinhong and Tao, Tianhua and Li, Junbo and others},
+  journal={arXiv preprint arXiv:2406.20098},
+  year={2024}
+}
 ```
 
 # License
